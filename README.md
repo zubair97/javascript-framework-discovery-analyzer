@@ -53,6 +53,7 @@ Copy
 Edit
 cd sentiment-service
 python app.py
+
 📦 Deployment Targets
 Spring Boot → Railway
 
